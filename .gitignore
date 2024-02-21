@@ -1,3 +1,8 @@
+# Ingnore this files
+week1/mlflow-example1/mlruns
+week1/mlflow-wine-quality/mlruns
+week1/mlflow-wine-quality/mlartifacts
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
